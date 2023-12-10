@@ -46,7 +46,7 @@ will get major version number bumps.
 
 ## install
 
-    go get github.com/BlackMocca/sqlx
+    go get github.com/Pheethy/sqlx
 
 ## issues
 
