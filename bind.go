@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/BlackMocca/sqlx/reflectx"
+	"github.com/Pheethy/sqlx/reflectx"
 )
 
 // Bindvar types supported by Rebind, BindMap and BindStruct.
