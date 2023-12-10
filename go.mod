@@ -1,6 +1,6 @@
 module github.com/Pheethy/sqlx
 
-go 1.21.3
+go 1.17
 
 require (
 	github.com/BlackMocca/sqlx v1.0.0
